@@ -10,3 +10,5 @@ You are required to implement a Java class to represent an album. The program sh
 the objects into a suitable collection. Figure 3 provides a partial UML class representation of the class that you will need to implement. It indicates 
 required data members and accessor (i.e., getter) methods that map to those data members, and a toString() method. It is left to you to determine class
 data types and how the Album objects should be initialised.
+
+<img width="375" alt="Screenshot 2022-11-16 at 19 25 27" src="https://user-images.githubusercontent.com/93152488/202275218-3d5fbb02-73b7-4de7-9ea8-a9780fdf6d0f.png">
