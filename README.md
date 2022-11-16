@@ -1,5 +1,10 @@
 # Java-Music-Album-info
 
+The program presents the User with a console- based menu to interact with the data set. The menu should loop until the User enters a character to exit the menu (e.g., zero as illustrated below). In addition to an exit option, the menu offers three other options: 
+- List all albums
+- Select a single album to view
+- Search in song titles.
+
 Within the ‘albums’ data file, there are 20 entries that each represent a single album. On the first line of each album entry there are six data fields
 representing the following information (in order): the current sales ranking, the title of the album, the name of the artist, the year the album was
 released, and the total number of sales to date (‘M’ denotes million and ‘K’ denotes thousand). The first line is then followed by the list of song tracks
